@@ -1,5 +1,4 @@
 # Cours-d-arabe-pour-ma-Hbiba-Sarah
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
